@@ -13,7 +13,7 @@ Ce projet consiste à classifier des messages SMS comme *spam* ou *ham* (non-spa
 
 Trois pipelines ont été testés :
 1. **TF-IDF + Régression Logistique** (baseline)
-2. **Réseau de neurones simple (RNN-like)** avec embedding + global pooling
+2. **Réseau de neurones simple (RNN)** avec embedding + global pooling
 3. **Transfert Learning avec BERT (DistilBERT)** : fine-tuning sur les données.
 
 Chaque modèle est évalué sur :
@@ -21,11 +21,8 @@ Chaque modèle est évalué sur :
 - Rapport de classification (precision, recall, f1-score)
 - Matrice de confusion
 
-##  Démarrage
+## Notebook : **projet AT&T.ipynb
 
-Installer les dépendances :
-```bash
-pip install -r requirements.txt
 ```
 
 ##  Résultats
