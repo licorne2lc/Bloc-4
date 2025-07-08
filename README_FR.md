@@ -13,7 +13,7 @@ Ce projet consiste à classifier des messages SMS comme *spam* ou *ham* (non-spa
 
 Trois pipelines ont été testés :
 1. **TF-IDF + Régression Logistique** (baseline)
-2. **Réseau de neurones simple (RNN)** avec embedding + global pooling avec optimisation du seuil
+2. **Réseau de neurones simple (RNN)** avec embedding + global pooling avec optimisation du seuil.
 3. **Transfert Learning avec BERT (DistilBERT)** : fine-tuning sur les données avec optimisation du seuil.
 
 Chaque modèle est évalué sur :
