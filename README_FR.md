@@ -23,8 +23,6 @@ Chaque modèle est évalué sur :
 
 ## Notebook : **projet AT&T.ipynb
 
-```
-
 ##  Résultats
 
 Le modèle DistilBERT fine-tuné fournit les meilleurs résultats avec un rappel (recall) élevé, crucial pour détecter les spams.
@@ -32,3 +30,5 @@ Le modèle DistilBERT fine-tuné fournit les meilleurs résultats avec un rappel
 ##  Auteurs
 
 Projet réalisé par moulinier jerome dans le cadre de la formation Data Scientist — Bloc 4 : Deep Learning.
+
+
