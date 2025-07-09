@@ -29,4 +29,4 @@ Le modèle DistilBERT fine-tuné fournit les meilleurs résultats avec un rappel
 
 ##  Auteurs
 
-Projet réalisé par moulinier jerome dans le cadre de la formation Data Scientist — Bloc 4 : Deep Learning.
+Projet réalisé par moulinier jerome dans le cadre de la certification RNCP 35288 — Bloc 4 : Deep Learning.
