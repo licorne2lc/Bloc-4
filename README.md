@@ -5,9 +5,9 @@ Ce projet consiste à classifier des messages SMS comme *spam* ou *ham* (non-spa
 
 ##  Fichiers utilisés
 
-- `spam.csv` : jeu de données contenant les messages SMS et leurs étiquettes.
-- `projet AT&T.ipynb` : notebook principal de développement.
-- `01-AT&T_spam_detector.ipynb` : version d'origine de l'exercice.
+- `spam.csv` : jeu de données contenant les messages SMS et leurs labels.
+- `projet AT&T.ipynb` : notebook principal .
+- `01-AT&T_spam_detector.ipynb` : Ennoncé de l'exercice.
 
 ##  Méthodologie
 
